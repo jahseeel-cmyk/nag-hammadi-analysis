@@ -1,0 +1,2 @@
+hypothesis_id,date_registered,origin,claim,prediction,target_holdout,null_explanation,falsifier,status,notes
+FH001,,intuition_or_analysis,,,,,,,UNTESTED,
