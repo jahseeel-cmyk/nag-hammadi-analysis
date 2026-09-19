@@ -1,0 +1,9 @@
+text,status,notes
+Marsanes,CORE_PRIMARY,"Primary training source for grapheme/sound/soul/name architecture"
+Three Steles of Seth,TIER1_CORE_COMPARATOR,"Promoted after successful holdout; core ritual-topology source"
+Zostrianos,CONSUMED_HOLDOUT_COMPARATOR,"Holdout role complete; may be used for model refinement with provenance"
+Trimorphic Protennoia,CONSUMED_HOLDOUT_COMPARATOR,"Holdout role complete; may be used for model refinement with provenance"
+Holy Book of the Great Invisible Spirit,CONTAMINATED_COMPARATOR,"Detailed relevant content already inspected"
+Discourse on the Eighth and Ninth,CONTAMINATED_COMPARATOR,"Detailed relevant content already inspected"
+Allogenes,PRIMARY_TEXT_BLIND_SECONDARY_EXPOSED,"Primary repo text not opened in this phase; prior secondary-literature exposure means not pristine"
+Hypsiphrone,CLEAN_RESERVE_HOLDOUT,"Filename only inspected; reserve for stricter falsification"
