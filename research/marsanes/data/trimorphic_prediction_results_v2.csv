@@ -1,0 +1,7 @@
+prediction_id,status,evidence_strength,observation,interpretation
+PT001,SUPPORTED,HIGH,"ma mo o o o eia ei on ei","Non-prose structured vocal formula includes OOO"
+PT002,NOT_SUPPORTED,MEDIUM,"Only clearly scorable homogeneous non-prose repeat is OOO n=3","Trimorphic does not independently support n!=3"
+PT003,INSUFFICIENT_DATA,MEDIUM,"1 scorable repeated unit; 0 primary same-clause independent count anchors","Preregistered threshold not met; no p-value"
+PT004,SUPPORTED,HIGH,"Observed formula encodable by GROUP + CONCATENATE + REPEAT(O,3)","No new structural operator needed"
+PT005,STRONGLY_SUPPORTED,HIGH,"Thought -> Voice -> Speech/Word; Silence linked to hidden Light and knowledge/revelation","Strong mechanism-level support for sacred-language transformation model"
+PT006,STRONGLY_SUPPORTED,HIGH,"Best match is transformation architecture, not number recurrence alone","Mechanistic esoteric model outperforms simple numerology as explanation"
