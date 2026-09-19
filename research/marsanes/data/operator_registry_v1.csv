@@ -1,0 +1,11 @@
+operator_id,operator,definition,marsanes_anchor,evidence_status,restoration_risk,esoteric_priority,frozen_for_holdout
+OP1,SERIES,"ordered vowel inventory","C1/C2",HIGH_C1_MODERATE_C2,LOW_TO_MODERATE,MEDIUM,YES
+OP2,REPEAT3,"repeat one vowel three times","C3 male block",HIGH,LOW_TO_MODERATE,HIGH,YES
+OP3,GROUP,"preserve explicit unit boundaries","C3/diphthong material",HIGH,LOW,HIGH,YES
+OP4,COMBINE,"combine consonantal and vocal elements","divine/angelic nomenclature + syllabic rows",HIGH_GENERAL,MODERATE,HIGH,YES
+OP5,SUBSTITUTE_VOWEL,"change vowel while retaining frame","consonant-vowel rows",MODERATE,HIGH,HIGH,YES
+OP6,CONCATENATE,"join simple vocalic/syllabic units","diphthong/compound sound material",HIGH,MODERATE,HIGH,YES
+OP7,PITCH,"performance variable","sound-operation passage",TRANSLATION_ATTESTED,UNKNOWN,HIGH,YES_UNPARAMETERIZED
+OP8,BEAT,"performance variable","sound-operation passage",TRANSLATION_ATTESTED,UNKNOWN,HIGH,YES_UNPARAMETERIZED
+OP9,SILENCE,"boundary/transition variable","Silent One + command to silence + sound passage",STRONG_THEMATIC,LOW,HIGH,YES
+OP10,IMPULSE,"performance variable","sound-operation passage",TRANSLATION_ATTESTED,UNKNOWN,MEDIUM_HIGH,YES_UNPARAMETERIZED
