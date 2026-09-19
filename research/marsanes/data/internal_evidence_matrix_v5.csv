@@ -1,0 +1,11 @@
+evidence_id,text,observed_structure,v5_operator,status,caution
+V5E01,"Three Steles of Seth","shadow relation across levels; ascent path explicitly equals descent path","PROJECT;ASCEND;DESCEND;REVERSE_PATH","TRAINING_STRONG","Do not generalize every emanation as reversible"
+V5E02,"Allogenes","source confers Being/Vitality; seer withdraws through Vitality and Existence toward Unknown One","DIFFERENTIATE;PARTICIPATE;ASCEND;DESCEND","TRAINING_STRONG","Downward side is ontological, upward side experiential"
+V5E03,"Trimorphic Protennoia","First Thought -> Voice -> Speech -> Word","ARTICULATE;DESCEND","TRAINING_STRONG","Christian redaction layers possible"
+V5E04,"Zostrianos","reflection of reflection; angels of angels / souls of souls","PROJECT;RECURSE","TRAINING_STRONG","Same-family Sethian control"
+V5E05,"Apocryphon of John","powers contribute marks/signs to human image; qualities map to bodily substances","DIFFERENTIATE;PROJECT;INHABIT","TRAINING_HIGH","Angel-name etymologies require provenance/philology audit"
+V5E06,"Gospel of Philip","truth comes in types/images; seeing -> becoming","PROJECT;RECOGNIZE;PARTICIPATE","TRAINING_HIGH","Valentinian rather than Sethian"
+V5E07,"Discourse on the Eighth and Ninth","divine musician -> mind/plectrum -> human instrument; silence at summit","INHABIT;BOUNDARY;ASCEND","TRAINING_HIGH","Hermetic comparator, not Sethian"
+V5E08,"Eugnostos/Sophia of Jesus Christ","invisible -> visible terminus","PROJECT;DESCEND","TRAINING_HIGH","Interpretive language in findings must be separated from source wording"
+V5E09,"Gospel of Egyptians","structured vowel invocations; garment expression","ARTICULATE;INHABIT","TRAINING_MODERATE","Acoustic-specific claims remain unproven"
+V5E10,"Whole Picture synthesis","persons as states; names split when states divide; variable forms carry one underlying relation","DIFFERENTIATE;PROJECT","META_HYPOTHESIS","Synthesis is interpretive, not primary evidence"
