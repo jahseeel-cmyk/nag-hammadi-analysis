@@ -1,0 +1,12 @@
+relation_id,folio_lines,source_state,operator,target_state,function,evidence_status,notes
+TS001,"119:18-29","Good/Self-begotten source","REVEAL","Goodness/eternal ones","revelation","PRIMARY_TEXT","Appears and reveals goodness; reveals those who really are"
+TS002,"119:21-29","Divine source","ARTICULATE_NAME_VOICE","Name/voice","glorification by mind","PRIMARY_TEXT","Name is uttered; deity is uttered by voice and glorified by mind"
+TS003,"120:27-35","One/source","EMANATE","word / multiplicity / unified all","empowerment and salvation","PRIMARY_TEXT","Word from command; arose from one, went forth from one, came to one; saves"
+TS004,"121:27-122:4","Pre-existent one","EMANATE","Barbelo / shadow-light","ontological mediation","PRIMARY_TEXT","From him and through him she pre-exists; light from light"
+TS005,"122:19-31","Barbelo / mediated source","EMPOWER","being / life / knowledge / forms","generation and knowledge","PRIMARY_TEXT","Explicitly empowers eternal ones, divinity, knowledge, forms"
+TS006,"123:10-25","Fatherly divine source","ARTICULATE_WORD","appearance in a word","salvation / wisdom / knowledge / life / mind","PRIMARY_TEXT","Appearance in a word followed by functional outputs"
+TS007,"125:10-17","Divine light/source","COMMAND_WORD","seeing by mind","knowledge and salvation","PRIMARY_TEXT","Command requested so worshippers may see; knowledge identified with salvation"
+TS008,"126:18-31","Divine source","COMMAND_GLORIFY","glorification","salvation","PRIMARY_TEXT","Command to glorify; blessing/glorification tied to being saved"
+TS009,"127:11-18","Blessing / glorification","SILENCE_BOUNDARY","silence","transition to ascent","PRIMARY_TEXT","Participants bless, then are silent, then ascend"
+TS010,"127:15-21","Third stele / summit","DESCEND","Second then First stele","ordered return","PRIMARY_TEXT","After silence they descend from third, bless second, then first"
+TS011,"127:19-21","Ascent path","REVERSAL_STATEMENT","Descent path","ritual topology","PRIMARY_TEXT","Text explicitly states way of ascent is way of descent"
