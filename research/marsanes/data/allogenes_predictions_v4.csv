@@ -1,0 +1,7 @@
+prediction_id,target,prediction,success_criterion,failure_condition,status
+PA001,Allogenes,"At least one explicit upward or return transduction chain will connect a lower/mediated state to a higher noetic/divine state.",">=3 states, >=2 explicit links, functional endpoint in knowledge/participation/ascent.","Only static theology or generic travel.",SEALED
+PA002,Allogenes,"At least one explicit downward/manifestation chain will be present.","Higher/source state explicitly comes forth, manifests, descends, or generates a lower mediated state.","No downward/manifestation path.",SEALED
+PA003,Allogenes,"At least one state/level will be homologous across upward and downward directions.","Same named or clearly identical state/level participates in both directions.","Directions exist but share no identifiable state/level.",SEALED
+PA004,Allogenes,"Sacred-language or epistemic mediation will be structurally necessary in at least one direction.","Voice/word/name/invocation/silence/knowledge functions as an intermediate transition, not decoration.","Movement occurs without any such mediation.",SEALED
+PA005,Allogenes,"Grammar v4 will cover the observed mechanisms without a new operator.","All qualifying transitions fit EMANATE/ARTICULATE/REVEAL/PARTICIPATE/SILENCE_BOUNDARY/ASCEND/DESCEND/REVERSE_PATH.","New mechanism required.",SEALED
+PA006,Allogenes,"The strongest match will survive deletion of explicit number words and triadic labels.","Bidirectional or transduction chain remains after number terms are ignored.","Only numerical structure supports match.",SEALED
