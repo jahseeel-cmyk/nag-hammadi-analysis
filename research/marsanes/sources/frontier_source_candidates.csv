@@ -1,0 +1,10 @@
+source_id,type,doi_or_isbn,title,author_or_editor,role,evidence_status,notes
+S004,article,10.1163/18725473-12341398,"A Plotinian Turning Point: Revisiting the Relationship between Gnosticism and Platonism","Gabriel Martino","Sethian-Platonic context",CANDIDATE,"Context only; not manuscript evidence"
+S005,article,10.18573/j.2013.10314,"The Magic of Plotinus' Gnostic Disciples in the Context of Plotinus' School of Philosophy","Nicola Spanu","Theurgy/magic comparison",CANDIDATE,"Comparator for sacred-language mechanisms"
+S006,article,10.1017/S0017816010000532,"Apophatic Strategies in Allogenes (NHC XI,3)","Dylan M. Burns","Sethian holdout/context",CANDIDATE,"Do not fit Marsanes operators to it"
+S007,article,10.1017/S0009838800016098,"The Existence-Life-Intellect Triad in Gnosticism and Neoplatonism","Ruth Majercik","Gnostic-Neoplatonic formal parallels",CANDIDATE,"Comparator only"
+S008,article,10.1515/jhsl-2021-0004,"Language contact in historical documents: Egyptian transfer features in Greek documentary papyri","Sonja Dahlgren; Alek Keersmaekers; Joanne Vera Stolk","Greek-Coptic phonology/contact",CANDIDATE,"Pronunciation sensitivity control"
+S009,book_or_chapter,10.1515/9783110677522,"Postclassical Greek","Ilja A. Serzant et al.","Late Greek phonology/contact",CANDIDATE,"Vowel-merger control"
+S010,article,10.5296/ijl.v12i3.17101,"De Praepositione: The Emerging of Donatus's Thought on Syntax?","Castrenze Nigrelli","Ancient grammatical-school substrate",CANDIDATE,"Secondary control for grammar tradition"
+S011,article,10.1162/coli_a_00514,"A Systematic Review of Computational Approaches to Deciphering Bronze Age Aegean and Cypriot Scripts","Maja Braovic; Damir Krstinic; Maja Stula","Computational decipherment methodology",CANDIDATE,"Anti-overfitting methods"
+B001,book,9783647540368,"A Story of the Soul's Journey in the Nag Hammadi Library","Ulla Tervahauta","Book-level soul/ascent context",METADATA_LEAD,"Verify independently before evidentiary use"
