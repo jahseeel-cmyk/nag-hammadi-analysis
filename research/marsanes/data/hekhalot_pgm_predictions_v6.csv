@@ -1,0 +1,9 @@
+prediction_id,target,prediction,success_criterion,failure_condition,status
+HK001,Hekhalot,"At least two primary access-control events occur.","Specific token/name/seal/formula changes guardian/gate response and passage follows.","Fewer than two events.",SEALED
+HK002,Hekhalot,"At least one token is locally specific to a gate/guardian/level.","Text distinguishes which token/name/seal applies at a particular boundary.","Only generic prayer/names.",SEALED
+HK003,Hekhalot,"Knowledge/utterance of a token is operational, not descriptive.","Utterance/showing/knowledge causes acceptance, withdrawal, opening, or passage.","No behavioral consequence.",SEALED
+HK004,Hekhalot,"The model works without number symbolism.","Two qualifying events remain after ignoring numbered heavens/gates.","Only numerical hierarchy supports fit.",SEALED
+HK005,Hekhalot,"No new operator is required.","All qualifying events fit AC1-AC11.","New mechanism needed.",SEALED
+PG001,PGM,"PGM will contain operational names/formulae.","At least two cases where formula/name causes a ritual effect.","No operational formulae.",SEALED
+PG002,PGM,"PGM will show fewer strict access-control events than Hekhalot.","Lower proportion of cases include explicit verifier/gate response before passage.","PGM matches or exceeds Hekhalot on strict events.",SEALED
+PG003,PGM,"Many PGM formulae will be ritual-causal without being boundary-authentication.","Operational formula causes effect but no verifier/gate/pass sequence.","Most operational formulae are gate-authentication events.",SEALED
