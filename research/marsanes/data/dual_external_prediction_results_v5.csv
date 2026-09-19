@@ -1,0 +1,13 @@
+corpus,prediction_id,status,evidence_strength,observation
+Pistis Sophia,DX01,STRONGLY_SUPPORTED,HIGH,"mystery/name/seal -> passage/transfer -> Light/inheritance"
+Pistis Sophia,DX02,SUPPORTED,HIGH,"vesture/sign/seal carries higher mystery or identity"
+Pistis Sophia,DX03,STRONGLY_SUPPORTED,HIGH,"pronounced mystery-name and defences cause transfer/protection"
+Pistis Sophia,DX04,STRONGLY_SUPPORTED,HIGH,"veil/seal/region/gate functions as transition boundary"
+Pistis Sophia,DX05,SUPPORTED,HIGH,"Sophia displaced from thirteenth aeon and guided upward toward higher dwelling"
+Pistis Sophia,DX06,SUPPORTED,HIGH,"mechanism remains without numerical hierarchy"
+Books of Jeu,DX01,STRONGLY_SUPPORTED,HIGH,"Jeu -> voice -> emanation; seal/name/formula -> passage"
+Books of Jeu,DX02,SUPPORTED,MEDIUM_HIGH,"seal + name + cipher maps to treasury/aeon authorization"
+Books of Jeu,DX03,STRONGLY_SUPPORTED,HIGH,"recited names and defences make guardians withdraw"
+Books of Jeu,DX04,STRONGLY_SUPPORTED,HIGH,"watchers/gates/veils/treasuries are operational boundaries"
+Books of Jeu,DX05,NOT_ESTABLISHED,MEDIUM,"ascent to Treasury explicit; same-origin return not securely established"
+Books of Jeu,DX06,SUPPORTED,HIGH,"seal/name/boundary mechanism remains without cipher numbers"
