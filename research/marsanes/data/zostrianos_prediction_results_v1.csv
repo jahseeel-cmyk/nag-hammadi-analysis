@@ -1,0 +1,6 @@
+prediction_id,status,evidence_strength,holdout_observation,interpretation
+PZ001,SUPPORTED,HIGH,"EEE; EEEE; AAAAAAA; ZOSI ZOSI; longer vocal strings","Non-prose structured/repeated vocal material occurs in clean holdout"
+PZ002,SUPPORTED,HIGH,"Triadic divine statement immediately adjacent to EEE","Frozen REPEAT3 operator is tied to metaphysical structure"
+PZ003,PARTIAL,MEDIUM,"Aeons that really exist are described as existing in silence; silence linked to knowledge","Supports silence/knowledge relation but not yet full silence-to-sound-to-ascent chain"
+PZ004,MIXED,MEDIUM,"Exact EEE hit plus repeat-4 and repeat-7 sequences","REPEAT3 transfers; generalized REPEAT_N would be a new v2 operator"
+PZ005,SUPPORTED,MEDIUM_HIGH,"Triadic language + tripled vocal form in ritual-metaphysical context","Mechanistic relation is stronger than number-only similarity; same-family control remains important"
