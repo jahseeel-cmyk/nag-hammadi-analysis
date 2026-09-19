@@ -1,0 +1,5 @@
+text,status,reason,allowed_use
+Zostrianos,CLEAN_PRIMARY_HOLDOUT,"Not inspected during the current esoteric comparator pass","Primary first predictive holdout"
+Holy Book of the Great Invisible Spirit,CONTAMINATED_COMPARATOR,"Detailed seven-vowel/silence material was inspected during comparator research on 2026-09-19","Comparator only; not valid as pristine predictive holdout"
+Trimorphic Protennoia,CLEAN_SECONDARY_HOLDOUT,"Not inspected during the current comparator pass","Secondary holdout after Zostrianos"
+Discourse on the Eighth and Ninth,CONTAMINATED_COMPARATOR,"Detailed vowel recitation and ascent structure were inspected during comparator research on 2026-09-19","Comparator only; not valid as pristine predictive holdout"
