@@ -1,0 +1,9 @@
+prediction_id,target,status,evidence_strength,observation
+HK001,Hekhalot,SUPPORTED,HIGH,"Repeated palace entrances: named angels + two seals -> pacification -> escort onward"
+HK002,Hekhalot,SUPPORTED,HIGH,"Guardian/seal sets are tied to palace entrances; seventh-palace names/seals separately specified"
+HK003,Hekhalot,SUPPORTED,HIGH,"Presentation/adjurations change guardian behavior and permit passage"
+HK004,Hekhalot,SUPPORTED,HIGH,"Mechanism survives removal of numerical counts"
+HK005,Hekhalot,SUPPORTED,HIGH,"Frozen AC1-AC11 sufficient"
+PG001,PGM,SUPPORTED,HIGH,"Operational formulae widespread; Mithras Liturgy invocation/names precede opened heavenly doors and ascent"
+PG002,PGM,UNSCORABLE,NA,"No preregistered sampling denominator; cannot honestly compare proportions"
+PG003,PGM,SUPPORTED,HIGH,"Many ritual-causal formulae produce effects without explicit verifier/gate/passage sequence"
