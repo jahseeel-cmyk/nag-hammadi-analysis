@@ -1,0 +1,6 @@
+source,status,reason
+"Nag Hammadi Library — all 48 tractates","TRAINING_CONTAMINATED","SYNTHESIS_the_whole_picture.md explicitly surveys all tractates; no NHL text remains pristine as a holdout"
+"Hypsiphrone","NO_LONGER_PRISTINE","Whole-picture synthesis at least identifies Hypsiphrone and its name/state reading; reserve status retired"
+"Bruce Codex Untitled Text","SEALED_EXTERNAL_HOLDOUT","Outside NHL; content not opened in this v5 phase before preregistration"
+"Pistis Sophia","RESERVE_EXTERNAL_HOLDOUT","Outside NHL; do not inspect before separate preregistration"
+"Books of Jeu","RESERVE_EXTERNAL_HOLDOUT","Outside NHL; do not inspect before separate preregistration"
