@@ -1,0 +1,6 @@
+sample_id,source,carrier,target_or_verifier,boundary_present,strict_access_control,effect,notes
+PGM01,"PGM IV 539-728 Mithras Liturgy","secret names + gesture","rushing gods / heavenly doors",YES,YES,"gods pacified; doors open; ascent proceeds","closest control analogue to gate-authentication"
+PGM02,"PGM IV 1227-1264 exorcism","invocation + voces magicae","indwelling demon",NO,NO,"demon commanded to depart","operational sacred language without passage gate"
+PGM03,"PGM IV 1265-1274 Aphrodite name","NEPHERIERI","desired person / Aphrodite",NO,NO,"attraction sought","operational name but not verifier-boundary architecture"
+PGM04,"PGM VII 300a-310 love charm","holy names + voces","target of attraction",NO,NO,"attraction sought","ritual-causal, no explicit gate/verifier"
+PGM05,"PGM IV bilingual lamp divination","invocation + lamp-medium names","manifesting deity",NO,NO,"vision/divine manifestation","ritual mediation, not credentialized passage"
