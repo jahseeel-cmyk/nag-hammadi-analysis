@@ -1,0 +1,7 @@
+prediction_id,status,evidence_strength,primary_evidence,notes
+PS001,SUPPORTED,HIGH,"Two qualifying primary chains identified","Primary text only; editor introduction excluded from scoring"
+PS002,SUPPORTED,HIGH,"Command/word in C1; blessing/glorification in C2","Both primary chains include sacred-language mediation"
+PS003,STRONGLY_SUPPORTED,HIGH,"Blessing -> silence -> ascent","Silence functions operationally in ritual sequence"
+PS004,SUPPORTED,HIGH,"Both qualifying chains survive removal of explicit number words","Not dependent on title or triadic numerology"
+PS005,SUPPORTED,HIGH,"Frozen ARTICULATE/REVEAL/PARTICIPATE/SILENCE_BOUNDARY/ASCEND suffice","No new operator required"
+PS006,STRONGLY_SUPPORTED,HIGH,"Endpoints: knowledge/vision/salvation and ascent","Operational/epistemic rather than static description"
