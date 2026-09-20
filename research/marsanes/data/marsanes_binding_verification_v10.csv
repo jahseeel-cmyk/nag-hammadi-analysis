@@ -1,0 +1,5 @@
+binding_id,formal_operator,textual_function,coptic_anchor,scholarly_crosscheck,status,restoration_risk,major_caution
+B1,"SERIES7(simple vowels)","SELF_BEGOTTEN_SOUL_CONFIGURATION","X 26:3-6","Turner/Majercik; Funk-Poirier-Turner lineage","STRONGLY_VERIFIED",LOW,"Do not assign fixed meaning to each vowel"
+B2,"REPEAT3(simple-vowel groups)","MALE_THIRD_SOUL_CONFIGURATION","X 28:12-22","standard translation + scholarly reconstruction","STRONGLY_VERIFIED",LOW_TO_MODERATE,"AAA and UUU partly restored"
+B3,"COMBINE(vowels,consonants)","DIVINE_ANGELIC_NOMENCLATURE","X 27:13-18; X 30:3-9","Turner/Majercik explicitly identify gods/angels nomenclature","STRONGLY_VERIFIED_GENERAL",MODERATE,"complete 5x7 grid not fully manuscript-visible"
+B4,"CHANGE(consonantal form)+BEAT/PITCH/SILENCE/IMPULSE","HIDDEN_GOD_RELATION","X 30:12-18","Pearson/standard translation; hypotassein ambiguity","VERIFIED_RELATION_DIRECTION_UNRESOLVED",MODERATE,"submit vs subject is philologically ambiguous"
