@@ -1,0 +1,7 @@
+source_id,source,role,status
+PV10-01,"output/coptic/X_1_marsanes.md","Coptic transcription anchors X 26-31","USED"
+PV10-02,"output/english/tractates/X_1_marsanes.md","translation context","USED"
+PV10-03,"John D. Turner and Ruth Majercik, study of Marsanes alphabet/soul configurations","critical-edition-backed scholarly interpretation","USED"
+PV10-04,"Wolf-Peter Funk, Paul-Hubert Poirier, John D. Turner, Marsanès (NH X,1), 2000","critical edition lineage","BIBLIOGRAPHICALLY_VERIFIED_NOT_DIRECTLY_COLLATED"
+PV10-05,"Birger A. Pearson discussion of Marsanes 30:3-18","hypotassein submit/subject ambiguity","USED"
+PV10-06,"Paul Linjamaa, Vowel Constellations and Secret Language","preservation/context caution","USED"
