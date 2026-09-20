@@ -1,0 +1,6 @@
+term,coptic_or_greek,preferred_gloss,confidence,notes
+HYPOTASSEIN,"ϩⲩⲡⲟⲧⲁⲥⲥⲉ / ὑποτάσσω","order/place under; subject OR submit",HIGH,"direction of agency unresolved in Coptic syntax"
+BEAT,"X 30:16 term","rhythmic beat / ictus",MODERATE_HIGH,"critical edition explicitly connects to musical ictus"
+PITCH,"ⲙⲛⲧⲟⲩⲁϩⲉⲓⲏⲧ","pitch / sharpness of tone",MODERATE,"critical edition cites Greek musical terminology"
+SILENCE,"ⲕⲁⲣⲱϥ","silence",HIGH,"dictionary-secure"
+HORME,"ϩⲟⲣⲙⲏ / ὁρμή","attack / onset; broader impulse",HIGH,"Turner 'attack'; lexica give onset/attack/impulse; Coptic lexicon also cue/timing"
