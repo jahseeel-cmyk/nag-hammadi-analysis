@@ -1,0 +1,7 @@
+source_id,source_type,reference,status,notes
+SRC-MAR-REPO,PRIMARY_PROJECT_TRANSCRIPTION,"output/coptic/X_1_marsanes.md + output/english/tractates/X_1_marsanes.md",USED,"Marsanes B1-B4 anchors; direct facsimile collation still pending for X 30"
+SRC-PROJ-V9,PROJECT_PRIMARY_TRANSLATION,"function_operator_dataset_v9.csv and prior primary-text audits",USED,"Pilot migration of already-audited rows; not new evidence"
+SRC-HEK-V7,TRANSLATION_LEVEL,"hekhalot_token_boundary_matrix_v7.csv",USED,"13 gate-specific seal/name rows"
+SRC-PGM-BETZ,PRIMARY_TRANSLATION,"Hans Dieter Betz ed., The Greek Magical Papyri in Translation, PGM IV.475-829 and V.1-53",USED,"Performance instructions coded at translation level"
+SRC-PGM-VII,PRIMARY_TRANSLATION,"PGM VII.756-794 lunar invocation; Betz translation cross-checked against independent translation",USED,"14 sound companions of divine name"
+SRC-DIONYSIUS,PRIMARY_ANCIENT_TRANSLATION,"Dionysius of Halicarnassus, De Compositione Verborum 11, W. Rhys Roberts trans.",USED,"Secular prosodic control"
