@@ -1,0 +1,13 @@
+feature,weight,Marsanes,Marcus,Enochian,Sefer_Yetzirah,PGM,Greek_Grammar_Music_Control
+GreekTechnicalPhonology,2,1,1,0,0.5,0,1
+SemivowelClass,2,1,1,0,0,0,1
+LetterCombinatorics,1,1,1,1,1,0.5,1
+SacredNamesFromLetters,1,1,1,1,0.5,1,0
+OperativePronunciation,1,1,1,1,0.5,1,1
+Beat,2,1,0,0,0,0,1
+Pitch,2,1,0,0,0,0,1
+ExecutionSilence,2,1,0,0,0,0.5,0.5
+HormeAttack,2,1,0,0,0,0,0.5
+ActiveSemivowelRecruitment,3,1,0,0,0,0,0
+ManyToOneSound,2,1,1,0,0,0,0
+CosmicFormationBySound,1,1,1,1,1,1,0
