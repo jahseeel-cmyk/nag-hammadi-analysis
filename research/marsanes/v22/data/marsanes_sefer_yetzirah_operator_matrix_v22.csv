@@ -1,0 +1,11 @@
+operator,definition,Marsanes_score,Sefer_Yetzirah_score,overlap_status,notes
+O22-1_CLASSIFY,"technical partition of letters/sounds",2,2,OVERLAP,"Marsanes vowel/semivowel/consonant classes; SY 3 Mothers/7 Doubles/12 Simples"
+O22-2_COMBINE,"explicit joining/permutation/exchange",2,2,OVERLAP,"Marsanes CV combinations/generated strings; SY carve/hewn/weigh/exchange/combine and 231 gates"
+O22-3_VOICE_BREATH,"voice/breath/mouth/articulated sound",2,2,OVERLAP,"Marsanes explicit sound-class realization; SY letters carved in voice, hewn in breath, fixed in mouth"
+O22-4_ACTIVE_TRANSITION,"active verbal transformation/activation",2,2,OVERLAP,"Marsanes summon/order semivowels; SY carve/heweigh/exchange/combine/form"
+O22-5_PERFORMANCE_GATE,"execution beyond ordinary articulation",2,0,MARSANES_ONLY,"Marsanes beat/pitch/silence/horme; no equivalent base-text SY execution gate"
+O22-6_MANY_TO_ONE,"plural phonetic elements to one sounded result",2,0,MARSANES_ONLY,"Marsanes X30 one-sound ordering; SY combinations proliferate rather than collapse to one sound"
+O22-7_SACRED_NAMING,"letter/sound operations regulate sacred nomenclature",2,1,MARSANES_STRONGER,"Marsanes divine/angelic nomenclature explicit; SY 'one name' / sacred speech context is less direct"
+O22-8_COSMIC_FORMATION,"letter operations explicitly form cosmos/elements",0,2,SEFER_YETZIRAH_ONLY,"SY letters form creation/elements; Marsanes alphabetic block does not securely make letters form cosmos"
+O22-9_SOUL_BODY_FORMATION,"letter operations form/map soul/body",2,2,OVERLAP,"Marsanes soul configurations; SY forms soul of every formed being and maps letters across body"
+O22-10_CORRESPONDENCE,"same letter architecture maps across domains",2,2,OVERLAP,"Both bind letter systems across multiple ontological/anthropological domains"
