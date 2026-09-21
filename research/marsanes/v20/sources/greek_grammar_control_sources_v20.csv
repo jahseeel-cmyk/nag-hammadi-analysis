@@ -1,0 +1,9 @@
+source_id,category,source,role,status
+G20-01,PRIMARY_PHILOSOPHICAL,"Plato, Cratylus 424c","early three-way phonetic classification","USED"
+G20-02,PRIMARY_PHILOSOPHICAL,"Plato, Philebus 18b-c","vowels / sound-participating intermediates / mutes; Theuth frame","USED"
+G20-03,PRIMARY_PHILOSOPHICAL,"Aristotle, Poetics 1456b","vowel / semivowel / mute acoustic distinction","USED"
+G20-04,PRIMARY_GRAMMAR,"Techne Grammatikē attributed to Dionysius Thrax §6","eight semivowels; hissing/mumbling; doubles/unchangeables","USED_WITH_AUTHORSHIP_DATE_CAUTION"
+G20-05,PRIMARY_PHONETICS_RHETORIC,"Dionysius of Halicarnassus, De Compositione Verborum 14","detailed semivowel acoustics/articulation","USED"
+G20-06,MODERN_TRANSLATION_SCHOLARSHIP,"J. Alan Kemp, The Tekhnē Grammatikē of Dionysius Thrax, Historiographia Linguistica 13 (1986), DOI 10.1075/hl.13.2-3.12kem","modern translation and authenticity/background caution","USED"
+G20-07,MODERN_SCHOLARSHIP,"L. Pagani, The Techne grammatike attributed to Dionysius Thrax and the origin of grammar in Greek antiquity","authorship/history caution","USED"
+G20-08,CONTINUITY_CONTROL,"Sextus Empiricus, Against the Grammarians 99ff.","later witness to inherited element classification","BACKGROUND"
