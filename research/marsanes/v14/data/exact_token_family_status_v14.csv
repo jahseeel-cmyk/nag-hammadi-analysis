@@ -1,0 +1,13 @@
+family,status,primary_reason,strict_analysis
+F01_DIADEM_NAMES,RETAIN_VERY_STRONG,"Exact full formula with two explicitly assigned uses in PGM VII.619-627",YES
+F02_ABRASAX,RETAIN_STRONG,"Graphic vs 7x spoken vs 3x spoken uses; LXXIX/LXXX stability pair",YES
+F03_SABAOTH,RETAIN_STRONG,"7x fever use; graphic amulet; conjuration; consecration",YES
+F04_IAO,RETAIN_VERY_STRONG,"Explicit directional pronunciation in PGM V plus multiple exact-token contexts",YES
+F05_ADONAI,RETAIN_STRONG,"Repeated exact token across conjuration, Diadem, cup spell, consecration",YES
+F06_ABLANATHANALBA,RETAIN_STRONG,"Repeated exact token across control, revelation, favor and cup contexts",YES
+F07_AKRAMMACHAMAREI,RETAIN_STRONG,"Repeated across compulsion, victory, favor and revelation",YES
+F08_SESENGENBARPHARANGES,RETAIN_MODERATE_HIGH,"Exact repeated form in PGM III and IV; strict orthographic control required",YES
+F09_DAMNAMENEU,RETAIN_STRONG,"Same token across distinct PGM III ritual stages and PGM XII consecration",YES
+F10_MICHAEL,RETAIN_NULL_CONTROL,"Same exact anger-restraint charm in PGM LXXIX and LXXX",YES
+F11_IAO_SABAOTH_ADONAI_ABRASAX,RETAIN_MODERATE_HIGH,"Exact multi-name sequence in PGM III and VII",YES
+F12_TOTROSIAY_YHWH,RETAIN_VERY_STRONG_NONPGM,"112x adjuration vs first-palace seal-display use in Hekhalot Rabbati",YES
