@@ -1,0 +1,5 @@
+source_id,source_type,reference,role,status
+COL14-01,ARCHIVE_INDEX,"Claremont Nag Hammadi Archive index: Codex X page 31 = J-series item 1251","physical image locator","VERIFIED_LOCATOR"
+COL14-02,OPEN_ACCESS_SCHOLARSHIP,"Paul Linjamaa, Vowel Constellations and Secret Language, DOI 10.1017/9781009441483.006, Figure 5.2","published page-31 photograph and critical-text context","VERIFIED"
+COL14-03,PROJECT_TRANSCRIPTION,"output/coptic/X_1_marsanes.md, folio 31","pre-image bracket/uncertainty decomposition","USED_AS_PROXY"
+COL14-04,CRITICAL_EDITION,"Funk, Poirier, Turner, Marsanès (NH X,1), 2000","critical reconstruction priority","TO_COLLATE_DIRECTLY"
