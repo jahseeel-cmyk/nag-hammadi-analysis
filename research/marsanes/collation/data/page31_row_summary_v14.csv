@@ -1,0 +1,9 @@
+vowel_row,secure_visible_cells,uncertain_visible_cells,restoration_dependent_cells,total_cells,secure_fraction,visible_including_uncertain_fraction,restoration_fraction,image_verified
+A,2,0,3,5,0.4,0.4,0.6,NO
+E,3,1,1,5,0.6,0.8,0.2,NO
+ETA,2,0,3,5,0.4,0.4,0.6,NO
+I,0,0,5,5,0.0,0.0,1.0,NO
+O,2,1,2,5,0.4,0.6,0.4,NO
+U,0,0,5,5,0.0,0.0,1.0,NO
+OMEGA,2,1,2,5,0.4,0.6,0.4,NO
+TOTAL,11,3,21,35,0.3142857143,0.4,0.6,NO
