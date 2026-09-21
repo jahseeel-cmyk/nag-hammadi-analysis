@@ -1,0 +1,4 @@
+source_id,source_type,reference,status
+SRC-HR-SYNOPSE,PRIMARY_HEBREW,"Hekhalot Rabbati / Synopse §§204-205; Hebrew text hosted by Hebrew University and Sefaria witness",USED
+SRC-HR-19,PRIMARY_HEBREW_PLUS_PROVISIONAL_TRANSLATION,"Hekhalot Rabbati 19 first-palace seal passage",USED
+SRC-HR-25,PRIMARY_HEBREW_PLUS_PROVISIONAL_TRANSLATION,"Hekhalot Rabbati 25 throne song",DESCRIPTIVE_ONLY
