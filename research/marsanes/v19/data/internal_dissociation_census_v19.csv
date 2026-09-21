@@ -1,0 +1,5 @@
+case_id,location,phenomenon,semivowel_action,singular_sound_result,performance_bundle,evidence_status,classification
+C19-01,"X26:27-X27:4","semivowel hierarchy/classification",0,0,0,SECURE,"SEMIVOWEL_TAXONOMY"
+C19-02,"X30:15-22","performance + semivowel summoning + single sound",1,1,1,SECURE,"ACTIVE_SEMIVOWEL_UNIFICATION"
+C19-03,"X30:23-28","semivowels coexist with unchanging/double consonants",0,0,0,SECURE,"SEMIVOWEL_TAXONOMY"
+C19-04,"X31:5-10","generated syllables one-to-seven having a simple sound vs two sounds",0,1,0,SECURE,"SIMPLE_SOUND_WITHOUT_ACTIVE_SEMIVOWELS"
