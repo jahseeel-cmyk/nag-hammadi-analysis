@@ -1,0 +1,13 @@
+segment_id,location,dominant_label,transition_to_sounded_realization,performance_present,metaphysical_binding,evidence_tier,notes
+S17-01,"X25:1-20","TAXONOMY",0,0,1,SECURE,"Angelic powers/aspects of sound; summary and classification, no execution vocabulary"
+S17-02,"X25:21-X26:8","TAXONOMY",0,0,1,SECURE,"Soul-shape and vowel-series classification; no explicit execution parameter"
+S17-03,"X26:18-X27:12","TAXONOMY",0,0,0,SECURE,"Oxytones, short forms, semivowels, voiceless consonants, aspirates; pure phonological hierarchy"
+S17-04,"X27:13-20","COMBINATION",0,0,1,SECURE,"Letter/sound combination explicitly tied to nomenclature of gods and angels"
+S17-05,"X27:24-X29:3","COMBINATION/SOUNDED_REALIZATION",1,0,1,RESTORED,"Tripled vowels/diphthongs and statement that forms make ordinary sounds; sounded-realization wording partly restored"
+S17-06,"X29:4-20","METAPHYSICAL_BINDING",0,0,1,SECURE,"Disclosure/existence with each other in sound; no explicit performance vocabulary"
+S17-07,"X29:21-X30:11","TAXONOMY/COMBINATION",0,0,1,SECURE,"Long/dual/short, oxytones/intermediates/barytones, consonants with vowels, angelic nomenclature; no execution terms"
+S17-08,"X30:12-22","PERFORMANCE/SOUNDED_REALIZATION",1,1,1,SECURE,"Changed consonants/hidden gods followed by beat, pitch, silence, horme; then semivowels summoned and ordered to one sound"
+S17-09,"X30:23-30","TAXONOMY",0,0,0,SECURE,"Aspirates, inaspirates, intermediates, voiceless/semivowel classes; no performance vocabulary"
+S17-10,"X31:1-18","TAXONOMY",0,0,1,SECURE,"Ignorant nomenclature, counts 1-7, 17 consonants, ontological classification; no execution vocabulary"
+S17-11,"X31:19-X32:5","COMBINATION",0,0,1,SECURE,"Explicit vowel-consonant generated strings (bagadazatha etc.); combinatory realization but no named execution parameter"
+S17-12,"X32:6-29","METAPHYSICAL_BINDING/EFFECT",0,0,1,SECURE,"Effects and number classes; outside local performance bundle; no named execution parameter"
