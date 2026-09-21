@@ -1,0 +1,4 @@
+source_id,source_type,reference,status,notes
+CTRL-DT,PRIMARY_ANCIENT_TRANSLATION,"Dionysius Thrax, Techne Grammatikē §§2-5, Thomas Davidson trans.","USED","Reading, tone, breath and pause controls"
+CTRL-Q,PRIMARY_ANCIENT_TRANSLATION,"Quintilian, Institutio Oratoria XI.3, H.E. Butler trans., Loeb/Perseus/LacusCurtius","USED","Pitch, volume, dynamics and gesture controls"
+CTRL-VIT,PRIMARY_ANCIENT_TRANSLATION,"Vitruvius, De Architectura V.4, Joseph Gwilt trans.","USED","Aristoxenian speech/song pitch and timing controls"
