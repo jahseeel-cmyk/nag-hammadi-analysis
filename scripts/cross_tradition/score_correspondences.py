@@ -32,7 +32,7 @@ def main() -> None:
     for row in rows:
         row["information_gain_score"] = f"{score(row):.2f}"
 
-    rows.sort(key=lambda item: float(row["information_gain_score"]), reverse=True)
+    rows.sort(key=lambda item: float(item["information_gain_score"]), reverse=True)
 
     fieldnames = ["rank", *rows[0].keys()]
     with OUTPUT.open("w", newline="", encoding="utf-8") as handle:
